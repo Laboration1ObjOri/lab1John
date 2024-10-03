@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "DVVsTdx3SIc=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\SkapaSchema.Entiteter.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1108",
+      "level": "Error",
+      "message": "Cycle detected. \r\n  SkapaSchema.Entiteter -> SkapaSchema.Affärslager -> SkapaSchema.Datalager -> SkapaSchema.Entiteter.",
+      "libraryId": "SkapaSchema.Entiteter",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

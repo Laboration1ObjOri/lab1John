@@ -1,0 +1,502 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D62BB93C-415B-42DB-9478-CCC758151FC0}|..\\SkapaSchema.Presentationslager\\SkapaSchema.Presentationslager.csproj|c:\\users\\john\\downloads\\skapaschema.john\\skapaschema.presentationslager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62BB93C-415B-42DB-9478-CCC758151FC0}|..\\SkapaSchema.Presentationslager\\SkapaSchema.Presentationslager.csproj|c:\\users\\john\\downloads\\skapaschema.john\\skapaschema.presentationslager\\menykontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62BB93C-415B-42DB-9478-CCC758151FC0}|..\\SkapaSchema.Presentationslager\\SkapaSchema.Presentationslager.csproj|c:\\users\\john\\downloads\\skapaschema.john\\skapaschema.presentationslager\\menyer\\skapaschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62BB93C-415B-42DB-9478-CCC758151FC0}|..\\SkapaSchema.Presentationslager\\SkapaSchema.Presentationslager.csproj|c:\\users\\john\\downloads\\skapaschema.john\\skapaschema.presentationslager\\menyer\\meny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62BB93C-415B-42DB-9478-CCC758151FC0}|..\\SkapaSchema.Presentationslager\\SkapaSchema.Presentationslager.csproj|c:\\users\\john\\downloads\\skapaschema.john\\skapaschema.presentationslager\\menyer\\loggainmeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John\\Downloads\\SkapaSchema\\SkapaSchema.Presentationslager\\MenyKontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|c:\\users\\john\\downloads\\skapaschema.john\\skapaschema\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|c:\\users\\john\\downloads\\skapaschema.john\\skapaschema\\sal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|solutionrelative:sal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|c:\\users\\john\\downloads\\skapaschema.john\\skapaschema\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|c:\\users\\john\\downloads\\skapaschema.john\\skapaschema\\l\u00E4rare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|solutionrelative:l\u00E4rare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|c:\\users\\john\\downloads\\skapaschema.john\\skapaschema\\kurstillf\u00E4lle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|solutionrelative:kurstillf\u00E4lle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|c:\\users\\john\\downloads\\skapaschema.john\\skapaschema\\kurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|solutionrelative:kurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|c:\\users\\john\\downloads\\skapaschema.john\\skapaschema\\examinationsmoment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|solutionrelative:examinationsmoment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|c:\\users\\john\\downloads\\skapaschema.john\\skapaschema\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|solutionrelative:enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|c:\\users\\john\\downloads\\skapaschema.john\\skapaschema\\schema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|solutionrelative:schema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|c:\\users\\john\\downloads\\skapaschema.john\\skapaschema\\schemarad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|solutionrelative:schemarad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\SkapaSchema.Aff\u00E4rslager\\SchemaKontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|c:\\users\\john\\downloads\\skapaschema.john\\skapaschema\\skapaschema.entiteter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|solutionrelative:skapaschema.entiteter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|c:\\users\\john\\downloads\\skapaschema.john\\skapaschema\\utbildning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A0BD54-BA15-40E4-B802-F1E8FB4ACF83}|SkapaSchema.Entiteter.csproj|solutionrelative:utbildning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\SkapaSchema.Datalager\\SkapaSchema.Datalager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\SkapaSchema.Aff\u00E4rslager\\SkapaSchema.Aff\u00E4rslager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\SkapaSchema.Datalager\\SchemaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\SkapaSchema.Presentationslager\\MenyKontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\SkapaSchema.Datalager\\Databas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\SkapaSchema.Presentationslager\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John\\Downloads\\SkapaSchema\\SkapaSchema.Datalager\\SkapaSchema.Datalager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John\\Downloads\\SkapaSchema\\SkapaSchema.Presentationslager\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John\\Downloads\\SkapaSchema\\SkapaSchema.Datalager\\SchemaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John\\Downloads\\SkapaSchema\\SkapaSchema.Datalager\\Databas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John\\Downloads\\SkapaSchema\\SkapaSchema.Aff\u00E4rslager\\SchemaKontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\John\\Downloads\\SkapaSchema\\SkapaSchema.Presentationslager\\SkapaSchema.Presentationslager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "person.cs",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\person.cs",
+              "RelativeDocumentMoniker": "person.cs",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\person.cs",
+              "RelativeToolTip": "person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:42:33.933Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema.Presentationslager\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SkapaSchema.Presentationslager\\Program.cs",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema.Presentationslager\\Program.cs",
+              "RelativeToolTip": "..\\SkapaSchema.Presentationslager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:15:16.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SkapaSchema.cs",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema.Presentationslager\\Menyer\\SkapaSchema.cs",
+              "RelativeDocumentMoniker": "..\\SkapaSchema.Presentationslager\\Menyer\\SkapaSchema.cs",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema.Presentationslager\\Menyer\\SkapaSchema.cs",
+              "RelativeToolTip": "..\\SkapaSchema.Presentationslager\\Menyer\\SkapaSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:27:13.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoggaInMeny.cs",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema.Presentationslager\\Menyer\\LoggaInMeny.cs",
+              "RelativeDocumentMoniker": "..\\SkapaSchema.Presentationslager\\Menyer\\LoggaInMeny.cs",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema.Presentationslager\\Menyer\\LoggaInMeny.cs",
+              "RelativeToolTip": "..\\SkapaSchema.Presentationslager\\Menyer\\LoggaInMeny.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:16:30.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Meny.cs",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema.Presentationslager\\Menyer\\Meny.cs",
+              "RelativeDocumentMoniker": "..\\SkapaSchema.Presentationslager\\Menyer\\Meny.cs",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema.Presentationslager\\Menyer\\Meny.cs",
+              "RelativeToolTip": "..\\SkapaSchema.Presentationslager\\Menyer\\Meny.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:10:37.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenyKontext.cs",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema.Presentationslager\\MenyKontext.cs",
+              "RelativeDocumentMoniker": "..\\SkapaSchema.Presentationslager\\MenyKontext.cs",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema.Presentationslager\\MenyKontext.cs",
+              "RelativeToolTip": "..\\SkapaSchema.Presentationslager\\MenyKontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:03:39.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExaminationsMoment.cs",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\ExaminationsMoment.cs",
+              "RelativeDocumentMoniker": "ExaminationsMoment.cs",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\ExaminationsMoment.cs",
+              "RelativeToolTip": "ExaminationsMoment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:20:30.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Kurs.cs",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\Kurs.cs",
+              "RelativeDocumentMoniker": "Kurs.cs",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\Kurs.cs",
+              "RelativeToolTip": "Kurs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:19:07.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KursTillf\u00E4lle.cs",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\KursTillf\u00E4lle.cs",
+              "RelativeDocumentMoniker": "KursTillf\u00E4lle.cs",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\KursTillf\u00E4lle.cs",
+              "RelativeToolTip": "KursTillf\u00E4lle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:11:26.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "L\u00E4rare.cs",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\L\u00E4rare.cs",
+              "RelativeDocumentMoniker": "L\u00E4rare.cs",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\L\u00E4rare.cs",
+              "RelativeToolTip": "L\u00E4rare.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:30:19.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenyKontext.cs",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema\\SkapaSchema.Presentationslager\\MenyKontext.cs",
+              "RelativeDocumentMoniker": "..\\..\\SkapaSchema\\SkapaSchema.Presentationslager\\MenyKontext.cs",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema\\SkapaSchema.Presentationslager\\MenyKontext.cs",
+              "RelativeToolTip": "..\\..\\SkapaSchema\\SkapaSchema.Presentationslager\\MenyKontext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:50:44.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SkapaSchema.Datalager.csproj",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema\\SkapaSchema.Datalager\\SkapaSchema.Datalager.csproj",
+              "RelativeDocumentMoniker": "..\\..\\SkapaSchema\\SkapaSchema.Datalager\\SkapaSchema.Datalager.csproj",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema\\SkapaSchema.Datalager\\SkapaSchema.Datalager.csproj",
+              "RelativeToolTip": "..\\..\\SkapaSchema\\SkapaSchema.Datalager\\SkapaSchema.Datalager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T15:02:29.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sal.cs",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\Sal.cs",
+              "RelativeDocumentMoniker": "Sal.cs",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\Sal.cs",
+              "RelativeToolTip": "Sal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:13:48.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema\\SkapaSchema.Presentationslager\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\SkapaSchema\\SkapaSchema.Presentationslager\\Program.cs",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema\\SkapaSchema.Presentationslager\\Program.cs",
+              "RelativeToolTip": "..\\..\\SkapaSchema\\SkapaSchema.Presentationslager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:21:35.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\Enums.cs",
+              "RelativeDocumentMoniker": "Enums.cs",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\Enums.cs",
+              "RelativeToolTip": "Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:24:28.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin.cs",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\Admin.cs",
+              "RelativeToolTip": "Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:09:03.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SchemaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema\\SkapaSchema.Datalager\\SchemaRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\SkapaSchema\\SkapaSchema.Datalager\\SchemaRepository.cs",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema\\SkapaSchema.Datalager\\SchemaRepository.cs",
+              "RelativeToolTip": "..\\..\\SkapaSchema\\SkapaSchema.Datalager\\SchemaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:21:00.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Databas.cs",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema\\SkapaSchema.Datalager\\Databas.cs",
+              "RelativeDocumentMoniker": "..\\..\\SkapaSchema\\SkapaSchema.Datalager\\Databas.cs",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema\\SkapaSchema.Datalager\\Databas.cs",
+              "RelativeToolTip": "..\\..\\SkapaSchema\\SkapaSchema.Datalager\\Databas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:44:08.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SchemaKontroller.cs",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema\\SkapaSchema.Aff\u00E4rslager\\SchemaKontroller.cs",
+              "RelativeDocumentMoniker": "..\\..\\SkapaSchema\\SkapaSchema.Aff\u00E4rslager\\SchemaKontroller.cs",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema\\SkapaSchema.Aff\u00E4rslager\\SchemaKontroller.cs",
+              "RelativeToolTip": "..\\..\\SkapaSchema\\SkapaSchema.Aff\u00E4rslager\\SchemaKontroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:44:07.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Schema.cs",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\Schema.cs",
+              "RelativeDocumentMoniker": "Schema.cs",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\Schema.cs",
+              "RelativeToolTip": "Schema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:04:50.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SkapaSchema.Presentationslager.csproj",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema\\SkapaSchema.Presentationslager\\SkapaSchema.Presentationslager.csproj",
+              "RelativeDocumentMoniker": "..\\..\\SkapaSchema\\SkapaSchema.Presentationslager\\SkapaSchema.Presentationslager.csproj",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema\\SkapaSchema.Presentationslager\\SkapaSchema.Presentationslager.csproj",
+              "RelativeToolTip": "..\\..\\SkapaSchema\\SkapaSchema.Presentationslager\\SkapaSchema.Presentationslager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T09:21:55.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SchemaRad.cs",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\SchemaRad.cs",
+              "RelativeDocumentMoniker": "SchemaRad.cs",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\SchemaRad.cs",
+              "RelativeToolTip": "SchemaRad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:08:13.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MenyKontext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SkapaSchema.Presentationslager\\MenyKontext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Admin\\source\\repos\\SkapaSchema.Presentationslager\\MenyKontext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SkapaSchema.Presentationslager\\MenyKontext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Admin\\source\\repos\\SkapaSchema.Presentationslager\\MenyKontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:28:54.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SchemaKontroller.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SkapaSchema.Aff\u00E4rslager\\SchemaKontroller.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Admin\\source\\repos\\SkapaSchema.Aff\u00E4rslager\\SchemaKontroller.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SkapaSchema.Aff\u00E4rslager\\SchemaKontroller.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Admin\\source\\repos\\SkapaSchema.Aff\u00E4rslager\\SchemaKontroller.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:41:49.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SchemaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SkapaSchema.Datalager\\SchemaRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Admin\\source\\repos\\SkapaSchema.Datalager\\SchemaRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SkapaSchema.Datalager\\SchemaRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Admin\\source\\repos\\SkapaSchema.Datalager\\SchemaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:42:24.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SkapaSchema.Aff\u00E4rslager.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SkapaSchema.Aff\u00E4rslager\\SkapaSchema.Aff\u00E4rslager.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Admin\\source\\repos\\SkapaSchema.Aff\u00E4rslager\\SkapaSchema.Aff\u00E4rslager.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SkapaSchema.Aff\u00E4rslager\\SkapaSchema.Aff\u00E4rslager.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\Admin\\source\\repos\\SkapaSchema.Aff\u00E4rslager\\SkapaSchema.Aff\u00E4rslager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-02T21:44:58.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SkapaSchema.Datalager.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SkapaSchema.Datalager\\SkapaSchema.Datalager.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Admin\\source\\repos\\SkapaSchema.Datalager\\SkapaSchema.Datalager.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SkapaSchema.Datalager\\SkapaSchema.Datalager.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\Admin\\source\\repos\\SkapaSchema.Datalager\\SkapaSchema.Datalager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-02T21:51:13.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SkapaSchema.Entiteter.csproj",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\SkapaSchema.Entiteter.csproj",
+              "RelativeDocumentMoniker": "SkapaSchema.Entiteter.csproj",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\SkapaSchema.Entiteter.csproj",
+              "RelativeToolTip": "SkapaSchema.Entiteter.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-02T20:31:31.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Databas.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SkapaSchema.Datalager\\Databas.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Admin\\source\\repos\\SkapaSchema.Datalager\\Databas.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SkapaSchema.Datalager\\Databas.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Admin\\source\\repos\\SkapaSchema.Datalager\\Databas.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:44:41.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SkapaSchema.Presentationslager\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Admin\\source\\repos\\SkapaSchema.Presentationslager\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\SkapaSchema.Presentationslager\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Admin\\source\\repos\\SkapaSchema.Presentationslager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:43:12.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Utbildning.cs",
+              "DocumentMoniker": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\Utbildning.cs",
+              "RelativeDocumentMoniker": "Utbildning.cs",
+              "ToolTip": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema\\Utbildning.cs",
+              "RelativeToolTip": "Utbildning.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwD4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:08:47.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

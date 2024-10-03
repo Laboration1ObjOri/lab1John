@@ -1,0 +1,8 @@
+C:\Users\John\Downloads\SkapaSchema\SkapaSchema.Presentationslager\obj\Debug\net8.0\SkapaSchema.Presentationslager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Downloads\SkapaSchema\SkapaSchema.Presentationslager\obj\Debug\net8.0\SkapaSchema.Presentationslager.AssemblyInfoInputs.cache
+C:\Users\John\Downloads\SkapaSchema\SkapaSchema.Presentationslager\obj\Debug\net8.0\SkapaSchema.Presentationslager.AssemblyInfo.cs
+C:\Users\John\Downloads\SkapaSchema\SkapaSchema.Presentationslager\obj\Debug\net8.0\SkapaSchema.Presentationslager.csproj.CoreCompileInputs.cache
+C:\Users\John\Downloads\SkapaSchema.John\SkapaSchema.Presentationslager\obj\Debug\net8.0\SkapaSchema.Presentationslager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Downloads\SkapaSchema.John\SkapaSchema.Presentationslager\obj\Debug\net8.0\SkapaSchema.Presentationslager.AssemblyInfoInputs.cache
+C:\Users\John\Downloads\SkapaSchema.John\SkapaSchema.Presentationslager\obj\Debug\net8.0\SkapaSchema.Presentationslager.AssemblyInfo.cs
+C:\Users\John\Downloads\SkapaSchema.John\SkapaSchema.Presentationslager\obj\Debug\net8.0\SkapaSchema.Presentationslager.csproj.CoreCompileInputs.cache

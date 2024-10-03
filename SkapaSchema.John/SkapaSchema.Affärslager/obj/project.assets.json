@@ -1,0 +1,128 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "SkapaSchema.Datalager/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "SkapaSchema.Entiteter": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SkapaSchema.Datalager.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SkapaSchema.Datalager.dll": {}
+        }
+      },
+      "SkapaSchema.Entiteter/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "SkapaSchema.Affärslager": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SkapaSchema.Entiteter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SkapaSchema.Entiteter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SkapaSchema.Datalager/1.0.0": {
+      "type": "project",
+      "path": "../SkapaSchema.Datalager/SkapaSchema.Datalager.csproj",
+      "msbuildProject": "../SkapaSchema.Datalager/SkapaSchema.Datalager.csproj"
+    },
+    "SkapaSchema.Entiteter/1.0.0": {
+      "type": "project",
+      "path": "../SkapaSchema/SkapaSchema.Entiteter.csproj",
+      "msbuildProject": "../SkapaSchema/SkapaSchema.Entiteter.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "SkapaSchema.Datalager >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\John\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema.Affärslager\\SkapaSchema.Affärslager.csproj",
+      "projectName": "SkapaSchema.Affärslager",
+      "projectPath": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema.Affärslager\\SkapaSchema.Affärslager.csproj",
+      "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema.Affärslager\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\John\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema.Datalager\\SkapaSchema.Datalager.csproj": {
+              "projectPath": "C:\\Users\\John\\Downloads\\SkapaSchema.John\\SkapaSchema.Datalager\\SkapaSchema.Datalager.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1108",
+      "level": "Error",
+      "message": "Cycle detected. \r\n  SkapaSchema.Affärslager -> SkapaSchema.Datalager -> SkapaSchema.Entiteter -> SkapaSchema.Affärslager.",
+      "libraryId": "SkapaSchema.Affärslager",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
